@@ -1,0 +1,4 @@
+2026-10-29 12:50:10 launch
+2026-10-29 12:50:15 search : How to use ChatGPT
+2026-10-29 12:50:20 search : Java tutorial
+2026-10-29 12:50:25 exit
