@@ -1,0 +1,20 @@
+2026-04-22 12:42:20 launch
+2026-04-22 12:42:45 search : How to use ChatGPT
+2026-04-22 12:43:51 search : Java programming
+2026-04-22 12:45:32 exit
+2026-10-29 20:08:15 launch
+2026-10-29 20:08:19 launch
+2026-10-29 20:08:28 search : How to learn Java
+2026-10-29 20:08:28 search : Java ArrayList
+2026-10-29 20:08:37 search : Xx
+2026-10-29 20:08:48 launch
+2026-10-29 20:09:06 search : How to learn Java
+2026-10-29 20:09:15 search : Java ArrayList
+2026-10-29 20:09:17 exit
+2026-10-29 20:09:33 launch
+2026-10-29 20:10:00 search : How to learn Java
+2026-10-29 20:10:09 search : Java ArrayList
+2026-10-29 20:10:18 exit
+2026-10-29 20:10:59 launch
+2026-10-29 20:11:05 search : ggghbhbhj
+2026-10-29 20:11:15 exit
